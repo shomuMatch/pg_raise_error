@@ -1,0 +1,3 @@
+comment = 'extensiton to raise error when you need.'
+default_version = '1.0'
+module_pathname = '$libdir/pg_raise_error'
